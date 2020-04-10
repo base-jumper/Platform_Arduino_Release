@@ -1,0 +1,6 @@
+#ifndef PLATFORMCOMMON_H_INCLUDED
+#define PLATFORMCOMMON_H_INCLUDED
+
+#include "Shared/SharedCommon.h"
+
+#endif //PLATFORMCOMMON_H_INCLUDED
